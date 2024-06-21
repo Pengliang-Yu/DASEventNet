@@ -6,3 +6,5 @@
 Silixa provided a DAS catalog can be accessed via https://gdr.openei.org/submissions/1423
 
 The deep borehole geophone catalog provided by the Geo-Energie Suiss is greatly appreciated especially (Ben Dyer, Dimitrios Karvounis, Falko Bethmann), which could be accessed via https://gdr.openei.org/submissions/1558
+
+Porras provided a DAS catalog for Stage 3 hydraulic stimulation, which could be found in the data folder or from the paper of Porras, J., Pecci, D., Bocchini, G. M., Gaviano, S., De Solda, M., Tuinstra, K., ... & Grigoli, F. (2024). A semblance-based microseismic event detector for DAS data. Geophysical Journal International, 236(3), 1716-1727.
