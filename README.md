@@ -9,10 +9,10 @@
 
 4. Porras et al. (2024) provided a DAS catalog for Stage 3 hydraulic stimulation, which could be found in the data folder or from the paper of Porras, J., Pecci, D., Bocchini, G. M., Gaviano, S., De Solda, M., Tuinstra, K., ... & Grigoli, F. (2024). A semblance-based microseismic event detector for DAS data. Geophysical Journal International, 236(3), 1716-1727.
 
-# Dependence Packages
+## Dependence Packages
 matplotlib, numpy, obspy, pandas, scipy, tensorflow
 
-# contact
+## contact
 Regarding any questions, bugs, developments, collaborations, please contact Pengliang Yu pmy5077@psu.edu
 
 ## Acknowledgments
